@@ -138,7 +138,4 @@ Your data deserves sovereignty.
 
 Deploy the future. Locally. Now.
 
-bash
-Copiar
-Editar
 git clone https://github.com/couchraver/satoricore.git
